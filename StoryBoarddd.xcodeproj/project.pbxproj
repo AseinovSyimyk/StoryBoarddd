@@ -13,6 +13,7 @@
 		CE5FB9A62AC0A87500C292F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE5FB9A42AC0A87500C292F6 /* Main.storyboard */; };
 		CE5FB9A82AC0A87800C292F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5FB9A72AC0A87800C292F6 /* Assets.xcassets */; };
 		CE5FB9AB2AC0A87800C292F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE5FB9A92AC0A87800C292F6 /* LaunchScreen.storyboard */; };
+		CE5FB9B32AC0A8C600C292F6 /* SecondPageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5FB9B22AC0A8C600C292F6 /* SecondPageController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE5FB9A72AC0A87800C292F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE5FB9AA2AC0A87800C292F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE5FB9AC2AC0A87800C292F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE5FB9B22AC0A8C600C292F6 /* SecondPageController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPageController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CE5FB99E2AC0A87500C292F6 /* AppDelegate.swift */,
 				CE5FB9A02AC0A87500C292F6 /* SceneDelegate.swift */,
 				CE5FB9A22AC0A87500C292F6 /* ViewController.swift */,
+				CE5FB9B22AC0A8C600C292F6 /* SecondPageController.swift */,
 				CE5FB9A42AC0A87500C292F6 /* Main.storyboard */,
 				CE5FB9A72AC0A87800C292F6 /* Assets.xcassets */,
 				CE5FB9A92AC0A87800C292F6 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				CE5FB9A32AC0A87500C292F6 /* ViewController.swift in Sources */,
 				CE5FB99F2AC0A87500C292F6 /* AppDelegate.swift in Sources */,
+				CE5FB9B32AC0A8C600C292F6 /* SecondPageController.swift in Sources */,
 				CE5FB9A12AC0A87500C292F6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
